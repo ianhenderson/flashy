@@ -1,0 +1,26 @@
+{
+  "name": "flashy",
+  "version": "0.0.0",
+  "description": "flashy ======",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "~4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ianhenderson/flashy.git"
+  },
+  "author": "Ian Henderson",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ianhenderson/flashy/issues"
+  }
+}
