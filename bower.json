@@ -9,7 +9,7 @@
   "moduleType": [
     "node"
   ],
-	"directory": "public/lib",
+  "directory": "public/lib",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -17,5 +17,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "angular": "~1.2.22"
+  }
 }
