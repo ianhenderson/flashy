@@ -1,0 +1,21 @@
+{
+  "name": "flashy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ianhenderson/flashy",
+  "authors": [
+    "Ian Henderson <ianwhen@gmail.com>"
+  ],
+  "description": "MEAN stack Flashcard program",
+  "moduleType": [
+    "node"
+  ],
+	"directory": "public/lib",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
